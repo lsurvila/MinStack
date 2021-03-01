@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MinStackTest$Push" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-01T12:47:04" hostname="pop-os" time="0.019">
+  <properties/>
+  <testcase name="push to empty stack()" classname="MinStackTest$Push" time="0.016"/>
+  <testcase name="push to existing stack()" classname="MinStackTest$Push" time="0.001"/>
+  <testcase name="push bigger element()" classname="MinStackTest$Push" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
